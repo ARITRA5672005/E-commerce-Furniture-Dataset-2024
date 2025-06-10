@@ -17,8 +17,7 @@ Additionally, the project investigates seasonal trends and regional sales differ
 - **Excel**: Used for initial data inspection and quick summaries.
 
 ## Analysis
-
-The exploratory data analysis was conducted in the [`2_Exploratory_Data_Analysis.ipynb`](Project\2_Exploratory_Data_Analysis.ipynb) notebook. This analysis includes:
+The exploratory data analysis was conducted in the [`2_Exploratory_Data_Analysis.ipynb`](Project/2_Exploratory_Data_Analysis.ipynb) notebook. This analysis includes:
 
 - Data cleaning and preprocessing steps.
 - Examination of sales distribution across product categories.
